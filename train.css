@@ -1,0 +1,74 @@
+.header{
+
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 75px;
+    letter-spacing: 0%;
+
+    color: #36476D;
+
+}
+
+.container{
+    text-align: center;
+}
+
+.logo {
+    width: 263px;
+    height: 55px;
+    top: 55px;
+    left: 73px;
+}
+
+
+.addWord{
+    width: 126;
+    height: 33;
+    top: 55px;
+    left: 1135px;
+
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.addDesign{
+    width: 166px;
+    height: 57px;
+    top: 43px;
+    left: 1115px;
+    border-radius: 20px;
+
+    background: #56C854;
+
+   
+
+}
+
+.blueBox{
+    width: 1320;
+    height: 143;
+    top: 246px;
+    left: 73px;
+    border-radius: 30px;
+    border-width: 1px;
+    background: #AFD7FA;
+    border: 1px solid #000000
+
+}
+
+.whiteBox{
+    width: 306px;
+    height: 50px;
+    top: 46.5px;
+    left: 199px;
+
+    background: #FFFFFF;
+
+}
+
