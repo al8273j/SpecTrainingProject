@@ -1,5 +1,6 @@
 .main{
-    background-color: #F5F5F0
+    background-color: #F5F5F0;
+    
 }
 
 .wrapper{
@@ -46,7 +47,7 @@
     font-family: Poppins;
     font-weight: 600;
     font-size: 30px;
-    line-height: 26px;
+    line-height: 31px;
     letter-spacing: 0%;
     text-align: center;
     color: #FFFFFF;
