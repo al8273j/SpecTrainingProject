@@ -1,3 +1,20 @@
+.main{
+    background-color: #F5F5F0
+}
+
+.wrapper{
+    display: flex;
+    gap: 120px;
+    align-items: center;
+    flex-direction: column; 
+}
+
+.nameWrapper {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    flex-direction: column; 
+}
 .header{
 
     font-family: Poppins;
@@ -21,18 +38,19 @@
 
 
 .addWord{
-    width: 126;
-    height: 33;
+    width: 126px;
+    height: 33px;
     top: 55px;
     left: 1135px;
 
     font-family: Poppins;
     font-weight: 600;
     font-size: 30px;
-    line-height: 45px;
+    line-height: 26px;
     letter-spacing: 0%;
     text-align: center;
     color: #FFFFFF;
+
 
 }
 .addDesign{
@@ -43,14 +61,14 @@
     border-radius: 20px;
 
     background: #56C854;
-
-   
-
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 .blueBox{
-    width: 1320;
-    height: 143;
+    width: 1320px;
+    height: 143px;
     top: 246px;
     left: 73px;
     border-radius: 30px;
@@ -58,6 +76,8 @@
     background: #AFD7FA;
     border: 1px solid #000000;
     justify-content: space-evenly;
+    display: flex;
+    align-items: center;
 
 
 }
@@ -69,6 +89,112 @@
     left: 199px;
 
     background: #FFFFFF;
+} 
+.nameBox{
+    width: 1320px;
+    height: 107px;
+    top: 480px;
+    left: 86px;
+    border-radius: 30px;
+
+    gap: 121px;
+    box-shadow: 1px 3px #888888;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    background: #FFFFFF;
 
 }
+
+.deleteWord{
+    width: 126;
+    height: 33;
+    top: 37px;
+    left: 1096px;
+
+
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+
+
+
+}
+.deleteDesign{
+    width: 166px;
+    height: 57px;
+    top: 25px;
+    left: 1076px;
+    border-radius: 20px;
+    background: #FF7676;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.info{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 15px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    text-align: center;
+    
+
+
+}
+
+.infoBox{
+    width: 232px;
+    height: 49px;
+    top: 47px;
+    left: 577px;
+}
+
+
+.number{
+    width: 30px;
+    height: 45px;
+
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: 0%;
+    color: #36476D;
+}
+
+
+.actualName{
+    width: 220px;
+    height: 45px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0%;
+    color: #36476D;
+}
+
+.email{
+    width: 413px;
+    height: 45px;
+
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0%;
+
+    color: #828EA6;
+
+
+}
+
 
